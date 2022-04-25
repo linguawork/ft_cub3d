@@ -121,7 +121,8 @@ Brief Russian language description of the project.
 "И восстали машины из пепла ядерного огня...": Z - вкл, X - откл
 
 
-Ниже выкладываю видео с бонусной частью проекта (make bonus)  и нужно будет выбрать любую карту со словом _terminator.
+Ниже выкладываю видео с бонусной частью проекта  и нужно будет выбрать любую карту со словом _terminator.
+Чтобы запустить игру в теме Терминатора  нужно выполнить make bonus, затем подать бинарник с картой: ./cub3d map_terminator.cub
 
 https://user-images.githubusercontent.com/12897177/165137665-07e2ad5a-a5da-426a-a30a-e4e3dbd524cb.mov
 
